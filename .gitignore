@@ -1,0 +1,6 @@
+# Ignorar el archivo de variables de entorno
+.env
+
+# Ignorar el entorno virtual
+.venv/
+__pycache__/
